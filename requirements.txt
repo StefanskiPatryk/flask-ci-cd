@@ -1,15 +1,1 @@
-Flask==3.0.3 > requirements.txt
-
-
-
-
-
-
-
-
-
-
-
-git add requirements.txt
-git add requirements.txt
-echo Flask==3.0.3
+Flask==3.0.3
